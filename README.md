@@ -1,6 +1,6 @@
 🎀 Hello Kitty Jump 🎀
 
-Um joguinho fofo e divertido da Hello Kitty feito com HTML, CSS e JavaScript 🎀✨
+Um joguinho fofo e divertido da Hello Kitty feito com HTML, CSS e JavaScript 
 
 💻 Como jogar
 
@@ -16,7 +16,7 @@ Extraia o arquivo .zip.
 
 Abra o arquivo index.html no seu navegador favorito (Chrome, Edge, Firefox...).
 
-Pronto! 🎮
+Pronto! 
 
 🌸 Controles
 
@@ -49,4 +49,4 @@ Clique em Save.
 Aguarde alguns segundos: o GitHub vai gerar um link como este →
 👉 [**Clique aqui para jogar**](https://github.com/biancanoberto/hello-kitty-jump.git)
 
-Volte aqui e substitua o link do botão “Clique aqui para jogar” por esse endereço. 🌷
+Volte aqui e substitua o link do botão “Clique aqui para jogar” por esse endereço. 

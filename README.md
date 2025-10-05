@@ -26,7 +26,7 @@ Pronto!
 
 **Atualize a página** → recomeça o jogo.
 
-💕 Tecnologias usadas
+- Tecnologias usadas
 
 HTML5 → estrutura do jogo.
 

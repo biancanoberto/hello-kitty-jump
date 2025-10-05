@@ -2,7 +2,7 @@
 
 Um joguinho fofo e divertido da Hello Kitty feito com HTML, CSS e JavaScript 
 
-💻 Como jogar
+- Como jogar
 
 Acesse o jogo pelo navegador:
 👉 [**Clique aqui para jogar**](https://github.com/biancanoberto/hello-kitty-jump.git)
@@ -18,7 +18,7 @@ Abra o arquivo index.html no seu navegador favorito (Chrome, Edge, Firefox...).
 
 Pronto! 
 
-🌸 Controles
+ - Controles
 
 🖱️ Clique ou barra de espaço → faz a Hello Kitty pular.
 🔊 Botão no canto superior direito → ativa ou silencia a música.
@@ -32,7 +32,7 @@ CSS3 → estilos, cores e animações.
 
 JavaScript → lógica, colisões e pontuação.
 
-🌈 Como publicar no GitHub Pages
+- Como publicar no GitHub Pages
 
 Para deixar o jogo acessível online:
 

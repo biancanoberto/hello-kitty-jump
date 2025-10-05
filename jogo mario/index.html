@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./css/style.css" />
+  <script src="./js/script.js" defer></script>
+  <title>Hello Kitty Jump</title>
+</head>
+<body>
+
+  <audio id="bg-music" loop>
+    <source src="./imagens/bgmusic.mp3" type="audio/mp3" />
+  </audio>
+
+  <audio id="hit-sound">
+    <source src="./imagens/hit.mp3" type="audio/mp3" />
+  </audio>
+
+  <button id="mute-btn">🔊</button>
+
+  <div id="start-screen">
+    <h1>Hello Kitty Jump</h1>
+    <button id="start-btn">Start</button>
+  </div>
+
+  <div class="game-board" style="display:none;">
+    <div id="score">0</div>
+    <img src="./imagens/hellokitty.png" class="mario" alt="hello kitty" />
+    <img src="./imagens/pipe.png" class="pipe" alt="obstáculo" />
+  </div>
+
+</body>
+</html>

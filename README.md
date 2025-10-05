@@ -5,7 +5,7 @@ Um joguinho fofo e divertido da Hello Kitty feito com HTML, CSS e JavaScript �
 💻 Como jogar
 
 Acesse o jogo pelo navegador:
-👉 [**Clique aqui para jogar**](https://biancanoberto.github.io/hello-kitty-jump/)
+👉 [**Clique aqui para jogar**](https://github.com/biancanoberto/hello-kitty-jump.git)
 
 
 Ou jogue localmente:
@@ -47,6 +47,6 @@ Em Branch, escolha main e a pasta /root.
 Clique em Save.
 
 Aguarde alguns segundos: o GitHub vai gerar um link como este →
-👉 [**Clique aqui para jogar**](https://biancanoberto.github.io/hello-kitty-jump/)
+👉 [**Clique aqui para jogar**](https://github.com/biancanoberto/hello-kitty-jump.git)
 
 Volte aqui e substitua o link do botão “Clique aqui para jogar” por esse endereço. 🌷

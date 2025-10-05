@@ -20,9 +20,11 @@ Pronto!
 
  - Controles
 
-🖱️ Clique ou barra de espaço → faz a Hello Kitty pular.
-🔊 Botão no canto superior direito → ativa ou silencia a música.
-🔁 Atualize a página → recomeça o jogo.
+**Clique ou barra de espaço** → faz a Hello Kitty pular.
+
+**Botão no canto superior direito** → ativa ou silencia a música.
+
+**Atualize a página** → recomeça o jogo.
 
 💕 Tecnologias usadas
 
